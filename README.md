@@ -37,7 +37,7 @@ This application allows users to book tickets for a concert and generates PDF ti
 1. Run the application:
 
     ```bash
-    streamlit run main.py
+    streamlit run Reservation.py
     ```
 
 2. Fill in the required information on the form.
