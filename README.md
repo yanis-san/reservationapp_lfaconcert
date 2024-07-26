@@ -16,8 +16,8 @@ This application allows users to book tickets for a concert and generates PDF ti
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yanis-san/concert-reservation-system.git
-    cd concert-reservation-system
+    git clone https://github.com/yanis-san/reservationapp_lfaconcert.git
+    cd reservationapp_lfaconcert
     ```
 
 2. Create a virtual environment and install dependencies using `pipenv`:
